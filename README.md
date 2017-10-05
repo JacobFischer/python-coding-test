@@ -21,8 +21,14 @@ If a problem requires pip packages, there is a requirements.txt file with the
 required packaged in it. The problem's README.md should mention this requirement
 if need be.
 
+## Style
+
+I adhere to the [PEP8][2] rules when coding Python, so that style will be
+represented in my code.
+
 ## Questions
 
 If you have any questions, feel free to ask me or make an issue here!
 
 [1]: https://docs.python.org/3/library/typing.html
+[2]: https://www.python.org/dev/peps/pep-0008/
